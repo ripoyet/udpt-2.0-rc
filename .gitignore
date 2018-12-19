@@ -1,0 +1,9 @@
+*.o
+*.sublime-*
+*.sqlite3
+*.vcxproj.user
+*.sdf
+*.suo
+*.opensdf
+**/Debug/*
+*.opendb
